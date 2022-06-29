@@ -109,7 +109,7 @@ public class Seguradora1 {
 		seg.adicionaDocumento(tomador2);
 		seg.listarDocumentos();
 		seg.gravarDocumentos();
-		seg.excluirDocumento(garfield);
+		seg.excluirDocumento(tomador2);
 		seg.listarDocumentos();
 		seg.excluirDocumentos();
 		seg.listarDocumentos();
